@@ -1,0 +1,9 @@
+At Can't Distract Me, we take your privacy very seriously. We understand that privacy is a fundamental right and we're committed to protecting your personal information.
+
+When you use our Android launcher, we do not collect or use any of your personal data. We do not collect your name, email address, phone number, or any other identifiable information. We don't track your location, your browsing history, or your app usage.
+
+We do not share any of your personal information with third parties, including advertisers. We do not sell your data, and we do not use it for any other purposes. We simply don't collect it.
+
+We may collect non-personal data, such as crash logs or usage statistics, but this data is strictly anonymous and cannot be used to identify you. We use this data to improve our app and to fix any bugs or issues that may arise.
+
+We use standard security measures to protect your data from unauthorized access, disclosure, alteration, or destruction. We take all reasonable precautions to ensure that your data is secure and protected.
