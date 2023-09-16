@@ -21,11 +21,8 @@ class _TaskState extends State<Task> {
   int completedTasks;
   int totalTasks;
   _TaskState({required this.toDoList, required this.completedTasks, required this.totalTasks});
-  // list of tasks
-  // List toDoList = [
-  //   ['tatti', false],
-  //   ['pani', false],
-  // ];
+
+  
   final _controller = TextEditingController();
 
   void saveNewTask() {
